@@ -4,7 +4,7 @@
 		'page_num' => 3,
 
 		// 对已经检测成功的ip测试轮次。
-		'examine_round' => 2,
+		'examine_round' => 1,
 
 		// 超时时间。代理ip在测试过程中的超时时间。
 		'timeout' => 20,
